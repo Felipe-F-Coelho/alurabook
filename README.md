@@ -1,7 +1,7 @@
 # Alura Book
 
 # Orgs
-Desenvolvimento de um projeto utilizando HTML e CSS para estrutura de uma website
+Desenvolvimento de um projeto utilizando HTML e CSS para estruturação de um website
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
