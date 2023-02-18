@@ -1,5 +1,7 @@
 # Alura Book
 
+![Group 2](https://user-images.githubusercontent.com/76561079/219825321-ab8633e2-f1ad-4b04-9e4d-3e59afadf864.png)
+
 # Orgs
 Desenvolvimento de um projeto utilizando HTML e CSS para estruturação de um website
 
